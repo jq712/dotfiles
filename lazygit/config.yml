@@ -1,0 +1,35 @@
+# Aura theme (https://github.com/daltonmenezes/aura-theme)
+# Pane backgrounds stay unset so ghostty's background-opacity shows through.
+gui:
+  theme:
+    activeBorderColor:
+      - "#a277ff"
+      - bold
+    inactiveBorderColor:
+      - "#6d6d6d"
+    searchingActiveBorderColor:
+      - "#ffca85"
+      - bold
+    optionsTextColor:
+      - "#82e2ff"
+    selectedLineBgColor:
+      - "#3d375e"
+    inactiveViewSelectedLineBgColor:
+      - "#29263c"
+    cherryPickedCommitFgColor:
+      - "#a277ff"
+    cherryPickedCommitBgColor:
+      - "#29263c"
+    markedBaseCommitFgColor:
+      - "#82e2ff"
+    markedBaseCommitBgColor:
+      - "#29263c"
+    unstagedChangesColor:
+      - "#ff6767"
+    defaultFgColor:
+      - "#edecee"
+  authorColors:
+    "*": "#f694ff"
+  branchColors:
+    main: "#61ffca"
+    master: "#61ffca"
