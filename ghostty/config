@@ -1,0 +1,22 @@
+# Appearance — Aura
+
+font-family = JetBrainsMono Nerd Font Mono
+font-size = 16
+theme = Aura
+
+
+# Window behavior
+
+background-opacity = .75
+
+
+# Window
+
+macos-non-native-fullscreen = padded-notch
+window-padding-x = 16
+window-padding-y = 0,12
+window-padding-balance = false
+
+# Terminal
+
+term = xterm-256color
